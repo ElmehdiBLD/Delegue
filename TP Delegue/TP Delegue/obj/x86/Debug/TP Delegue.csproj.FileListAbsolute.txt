@@ -1,0 +1,4 @@
+U:\PPE 2eme annee\visual studio\TP Delegue\TP Delegue\bin\Debug\TP Delegue.exe
+U:\PPE 2eme annee\visual studio\TP Delegue\TP Delegue\bin\Debug\TP Delegue.pdb
+U:\PPE 2eme annee\visual studio\TP Delegue\TP Delegue\obj\x86\Debug\TP Delegue.exe
+U:\PPE 2eme annee\visual studio\TP Delegue\TP Delegue\obj\x86\Debug\TP Delegue.pdb

@@ -1,0 +1,4 @@
+U:\PPE 2eme annee\visual studio\TP Delegue\Exercice 2\bin\Debug\Exercice 2.exe
+U:\PPE 2eme annee\visual studio\TP Delegue\Exercice 2\bin\Debug\Exercice 2.pdb
+U:\PPE 2eme annee\visual studio\TP Delegue\Exercice 2\obj\x86\Debug\Exercice 2.exe
+U:\PPE 2eme annee\visual studio\TP Delegue\Exercice 2\obj\x86\Debug\Exercice 2.pdb
